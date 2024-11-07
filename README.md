@@ -8,3 +8,6 @@
 ![image](https://github.com/user-attachments/assets/cf01ec54-5440-4369-aaa1-8c65c647b9d7)
 ![Снимок экрана 2024-11-07 203946](https://github.com/user-attachments/assets/0679f3d1-e80f-46ec-b476-16043415eaf2)
 
+<b>Задание 3 (Самое длинное слово)</b>
+![image](https://github.com/user-attachments/assets/5e492e56-fdb1-4bda-a369-ad56906b654f)
+![image](https://github.com/user-attachments/assets/3d2cdf36-c8fb-4a73-8f2c-acb10a6dcb75)

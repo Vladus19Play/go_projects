@@ -8,9 +8,7 @@ import (
 	"unicode"
 )
 
-var allowed = []string{"a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"}
-
-func palindrome(n string) bool {
+func palindrome(n string) string {
 	total := ""
 	n = strings.ToLower(n)
 	for _, i := range n {
@@ -19,7 +17,11 @@ func palindrome(n string) bool {
 			continue
 		}
 	}
-	return total == reverse(total)
+	if total == reverse(total) {
+		return "Да!"
+	} else {
+		return "Нет:("
+	}
 }
 
 func reverse(s string) string {
@@ -31,8 +33,9 @@ func reverse(s string) string {
 }
 
 func main() {
+	fmt.Println("Введите строку!")
 	scanner := bufio.NewScanner(os.Stdin)
 	scanner.Scan()
 	n := scanner.Text()
-	fmt.Println(palindrome(n))
+	fmt.Println("Является ли введённая строка палиндромом? -", palindrome(n))
 }

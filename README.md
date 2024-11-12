@@ -20,3 +20,8 @@
 <b>Задание 5 (Числа Фибоначчи до заданного числа)</b>
 ![image](https://github.com/user-attachments/assets/6feea51c-b660-46ba-bbaa-6897b56ecee6)
 ![Снимок экрана 2024-11-12 095806](https://github.com/user-attachments/assets/9befdd56-aa73-4f53-9890-9ec685cc0e88)
+
+<b>Задание 6 (Простые числа на заданном отрезке (алгоритм "Решето Сундарама"))</b>
+![image](https://github.com/user-attachments/assets/d3b6aa8a-7559-45be-99bc-56259582257e)
+![Снимок экрана 2024-11-12 111917](https://github.com/user-attachments/assets/3647e02b-e7a7-4bb0-924c-59c14a5475ed)
+

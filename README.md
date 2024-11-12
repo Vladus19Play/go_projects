@@ -16,3 +16,6 @@
 ![image](https://github.com/user-attachments/assets/afef21b7-69b9-43d2-8ced-bf2f6b6dc876)
 ![Снимок экрана 2024-11-12 092426](https://github.com/user-attachments/assets/ac345da9-171a-4b00-a680-fcaea06ed1c9)
 
+<b>Задание 5 (Числа Фибоначчи до заданного числа)</b>
+![image](https://github.com/user-attachments/assets/6feea51c-b660-46ba-bbaa-6897b56ecee6)
+![Снимок экрана 2024-11-12 095806](https://github.com/user-attachments/assets/9befdd56-aa73-4f53-9890-9ec685cc0e88)

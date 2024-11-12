@@ -11,3 +11,8 @@
 <b>Задание 3 (Самое длинное слово)</b>
 ![image](https://github.com/user-attachments/assets/5e492e56-fdb1-4bda-a369-ad56906b654f)
 ![image](https://github.com/user-attachments/assets/3d2cdf36-c8fb-4a73-8f2c-acb10a6dcb75)
+
+<b>Задание 4 (Проверка на високосный год)</b>
+![image](https://github.com/user-attachments/assets/afef21b7-69b9-43d2-8ced-bf2f6b6dc876)
+![Снимок экрана 2024-11-12 092426](https://github.com/user-attachments/assets/ac345da9-171a-4b00-a680-fcaea06ed1c9)
+

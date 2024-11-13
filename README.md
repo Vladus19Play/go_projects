@@ -33,3 +33,7 @@
 ![image](https://github.com/user-attachments/assets/1df3ecc8-3f6c-490c-9c84-189a93acfc30)
 ![image](https://github.com/user-attachments/assets/5a4c6e76-2ae7-4580-8c75-44134759e540)
 
+<b>Задание 9 (Числа Армстронга на заданном диапазоне)</b>
+![image](https://github.com/user-attachments/assets/a40a1333-be25-4e5d-b2de-d530920d0b4a)
+![Снимок экрана 2024-11-13 210330](https://github.com/user-attachments/assets/cddacc0c-7771-4e53-b537-d2c200ab5863)
+

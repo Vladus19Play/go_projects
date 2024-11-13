@@ -28,3 +28,8 @@
 <b>Задание 7 (Ревёрс текста)</b>
 ![image](https://github.com/user-attachments/assets/05a556d0-c713-47b8-a1a4-82b8f0c982ed)
 ![Снимок экрана 2024-11-13 202008](https://github.com/user-attachments/assets/25ca4c10-bd54-4ffc-88a9-e23723a1389d)
+
+<b>Задание 8 (НОД двух чисел)</b>
+![image](https://github.com/user-attachments/assets/1df3ecc8-3f6c-490c-9c84-189a93acfc30)
+![image](https://github.com/user-attachments/assets/5a4c6e76-2ae7-4580-8c75-44134759e540)
+

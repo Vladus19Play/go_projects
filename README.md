@@ -25,3 +25,6 @@
 ![image](https://github.com/user-attachments/assets/d3b6aa8a-7559-45be-99bc-56259582257e)
 ![Снимок экрана 2024-11-12 111917](https://github.com/user-attachments/assets/3647e02b-e7a7-4bb0-924c-59c14a5475ed)
 
+<b>Задание 7 (Ревёрс текста)</b>
+![image](https://github.com/user-attachments/assets/05a556d0-c713-47b8-a1a4-82b8f0c982ed)
+![Снимок экрана 2024-11-13 202008](https://github.com/user-attachments/assets/25ca4c10-bd54-4ffc-88a9-e23723a1389d)

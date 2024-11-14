@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9a8f2434-d50b-48e4-b6e3-53b88d9545e9)<i>Если изображения не появились, нужно немного подождать...</i>
+<i>Если изображения не появились, нужно немного подождать...</i>
 <h1 align="center">Практическая работа N_1</h1>
 
 <b>Задание 1 (Калькулятор)</b> [КОД ЗДЕСЬ](https://github.com/Vladus19Play/go_projects/blob/pr_1/practice_1/calc/calc.go)

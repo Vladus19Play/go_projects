@@ -28,3 +28,5 @@
 <b>Задание 9 (Числа Армстронга на заданном диапазоне)</b> [КОД ЗДЕСЬ](https://github.com/Vladus19Play/go_projects/blob/pr_1/practice_1/arms_nums/arms_nums.go)
 <details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/a40a1333-be25-4e5d-b2de-d530920d0b4a"><img src="https://github.com/user-attachments/assets/cddacc0c-7771-4e53-b537-d2c200ab5863"></details>
 
+<b>Задание 10 (Перевод чисел из одной системы счисления в другую)</b> [КОД ЗДЕСЬ](https://github.com/Vladusecho/go_projects/blob/pr_1/practice_1/perevod/perevod.go)
+<details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/5411b806-65a3-4c4f-bd48-2a42132b21d7"><img src="https://github.com/user-attachments/assets/5b493c25-37ad-4dbd-9304-c40c7ebca7fa"></details>

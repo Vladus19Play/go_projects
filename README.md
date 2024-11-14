@@ -30,4 +30,3 @@
 
 <b>Задание 10 (Перевод чисел из одной системы счисления в другую )</b> [КОД ЗДЕСЬ](https://github.com/Vladusecho/go_projects/blob/pr_1/practice_1/perevod/perevod.go)
 <details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/5411b806-65a3-4c4f-bd48-2a42132b21d7"><img src="https://github.com/user-attachments/assets/5b493c25-37ad-4dbd-9304-c40c7ebca7fa"></details>
-"></details>

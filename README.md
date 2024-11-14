@@ -30,3 +30,6 @@
 
 <b>Задание 10 (Перевод чисел из одной системы счисления в другую)</b> [КОД ЗДЕСЬ](https://github.com/Vladusecho/go_projects/blob/pr_1/practice_1/perevod/perevod.go)
 <details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/5411b806-65a3-4c4f-bd48-2a42132b21d7"><img src="https://github.com/user-attachments/assets/5b493c25-37ad-4dbd-9304-c40c7ebca7fa"></details>
+
+<b>Задание 11 (Решение квадратного уравнения)</b> [КОД ЗДЕСЬ](https://github.com/Vladusecho/go_projects/blob/pr_1/practice_1/uravnenie/uravnenie.go)
+<details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/99dd2397-7382-4e1d-90f7-04283048866e"><img src="https://github.com/user-attachments/assets/5020a156-2630-407c-b687-083c567d777f"></details>

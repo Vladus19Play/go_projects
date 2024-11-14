@@ -33,3 +33,6 @@
 
 <b>Задание 11 (Решение квадратного уравнения)</b> [КОД ЗДЕСЬ](https://github.com/Vladusecho/go_projects/blob/pr_1/practice_1/uravnenie/uravnenie.go)
 <details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/99dd2397-7382-4e1d-90f7-04283048866e"><img src="https://github.com/user-attachments/assets/5020a156-2630-407c-b687-083c567d777f"></details>
+
+<b>Задание 12 (Сортировка чисел по модулю)</b> [КОД ЗДЕСЬ](https://github.com/Vladusecho/go_projects/blob/pr_1/practice_1/abs_sort/abs_sort.go)
+<details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/6b9eec34-cc1e-4d31-b065-0524a7fdf737"><img src="https://github.com/user-attachments/assets/c9201fa1-667f-429d-bd4e-92430dfe3be3"></details>

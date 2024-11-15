@@ -39,3 +39,6 @@
 
 <b>Задание 13 (Слияние двух отсортированных массивов)</b> [КОД ЗДЕСЬ](https://github.com/Vladusecho/go_projects/blob/pr_1/practice_1/two_sorted_list/two_sorted_list.go)
 <details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/917e4bd3-938f-42f0-8a16-7fccf73f77cf"><img src="https://github.com/user-attachments/assets/8d3b8f2f-0eb2-41d3-964f-482fe123da82"></details>
+
+<b>Задание 14 (Нахождение подстроки в строке без использования встроенных)</b> [КОД ЗДЕСЬ](https://github.com/Vladusecho/go_projects/blob/pr_1/practice_1/index_find/index_find.go)
+<details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/115e644e-53d4-498e-a1ae-9acb75b2b580"><img src="https://github.com/user-attachments/assets/7edf5ec6-3af4-4ced-82b2-dac2c7d929bd"></details>

@@ -36,3 +36,6 @@
 
 <b>Задание 12 (Сортировка чисел по модулю)</b> [КОД ЗДЕСЬ](https://github.com/Vladusecho/go_projects/blob/pr_1/practice_1/abs_sort/abs_sort.go)
 <details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/6b9eec34-cc1e-4d31-b065-0524a7fdf737"><img src="https://github.com/user-attachments/assets/c9201fa1-667f-429d-bd4e-92430dfe3be3"></details>
+
+<b>Задание 13 (Слияние двух отсортированных массивов)</b> [КОД ЗДЕСЬ](https://github.com/Vladusecho/go_projects/blob/pr_1/practice_1/two_sorted_list/two_sorted_list.go)
+<details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/917e4bd3-938f-42f0-8a16-7fccf73f77cf"><img src="https://github.com/user-attachments/assets/8d3b8f2f-0eb2-41d3-964f-482fe123da82"></details>

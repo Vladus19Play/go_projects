@@ -42,3 +42,6 @@
 
 <b>Задание 14 (Нахождение подстроки в строке без использования встроенных)</b> [КОД ЗДЕСЬ](https://github.com/Vladusecho/go_projects/blob/pr_1/practice_1/index_find/index_find.go)
 <details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/115e644e-53d4-498e-a1ae-9acb75b2b580"><img src="https://github.com/user-attachments/assets/7edf5ec6-3af4-4ced-82b2-dac2c7d929bd"></details>
+
+<b>Задание 15 (Нахождение пересечения трех отрезков)</b> [КОД ЗДЕСЬ](https://github.com/Vladusecho/go_projects/blob/pr_1/practice_1/three_segments/three_segments.go)
+<details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/22f721d5-7e4a-4b51-891b-f1fab61ec307"><img src="https://github.com/user-attachments/assets/7cf12f6a-1012-4bcf-994d-a47da498bb8f"></details>

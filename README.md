@@ -9,3 +9,6 @@
 
 <b>Задание 3 (Рекурсивные числа Фибоначчи)</b> [КОД ЗДЕСЬ](https://github.com/Vladus19Play/go_projects/blob/pr_2/practice_2/recur_fib/recur_fib.go)
 <details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/63c16c7c-b597-4938-b7f4-8c27710df88a"><img src="https://github.com/user-attachments/assets/52fe4186-0991-4751-8474-3e1245d5e7bd"></details>
+
+<b>Задание 4 (Проверка числа на простоту)</b> [КОД ЗДЕСЬ](https://github.com/Vladus19Play/go_projects/blob/pr_2/practice_2/prost_num/prost_num.go)
+<details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/30342bab-2e5a-4fcb-a660-d418ad2a0246"><img src="https://github.com/user-attachments/assets/e9f99187-4005-44a7-9376-435b9f339b94"></details>

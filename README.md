@@ -15,3 +15,6 @@
 
 <b>Задание 5 (Проверка числа на число Армстронга)</b> [КОД ЗДЕСЬ](https://github.com/Vladus19Play/go_projects/blob/pr_2/practice_2/arm_num/arm_num.go)
 <details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/5010f376-a103-4d65-81fe-406865a9e13e"><img src="https://github.com/user-attachments/assets/802856e7-5551-41b8-8b71-a7108acfb26e"></details>
+
+<b>Задание 6 (Таблица умножения)</b> [КОД ЗДЕСЬ](https://github.com/Vladus19Play/go_projects/blob/pr_2/practice_2/mult_table/mult_table.go)
+<details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/01e5894b-f544-4f16-93f7-879c51f0ac19"><img src="https://github.com/user-attachments/assets/983c745f-f381-4da3-8b41-4686557a2d00"></details>

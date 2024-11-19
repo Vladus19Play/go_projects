@@ -12,3 +12,6 @@
 
 <b>Задание 4 (Проверка числа на простоту)</b> [КОД ЗДЕСЬ](https://github.com/Vladus19Play/go_projects/blob/pr_2/practice_2/prost_num/prost_num.go)
 <details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/30342bab-2e5a-4fcb-a660-d418ad2a0246"><img src="https://github.com/user-attachments/assets/e9f99187-4005-44a7-9376-435b9f339b94"></details>
+
+<b>Задание 5 (Проверка числа на число Армстронга)</b> [КОД ЗДЕСЬ](https://github.com/Vladus19Play/go_projects/blob/pr_2/practice_2/arm_num/arm_num.go)
+<details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/5010f376-a103-4d65-81fe-406865a9e13e"><img src="https://github.com/user-attachments/assets/802856e7-5551-41b8-8b71-a7108acfb26e"></details>

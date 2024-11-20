@@ -23,4 +23,4 @@
 <details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/01e5894b-f544-4f16-93f7-879c51f0ac19"><img src="https://github.com/user-attachments/assets/983c745f-f381-4da3-8b41-4686557a2d00"></details>
 
 <b>Задание 8 (Перевод числа в бинарную СС)</b> [КОД ЗДЕСЬ](https://github.com/Vladus19Play/go_projects/blob/pr_2/practice_2/bin_num/bin_num.go)
-<details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/983c745f-f381-4da3-8b41-4686557a2d00"><img src="https://github.com/user-attachments/assets/9f63c603-6d19-46e1-9074-ac18e83ed00a)"></details>
+<details><summary><i>preview</i></summary><img src="https://github.com/user-attachments/assets/a5a43a41-8d93-4097-826c-1d8fefc7e967"><img src="https://github.com/user-attachments/assets/c0882a95-2eae-4563-babb-e512a6aa0529"></details>
